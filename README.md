@@ -3,10 +3,10 @@
 Express + MongoDB API for a scrapyard acquisition register demo app.
 
 ## Live Links
-- API Base URL: `https://scrapyard-backend-portfolio.onrender.com/api`
-- Frontend App: `https://scrapyard-frontend-portfolio.onrender.com`
-- Backend Repo: `https://github.com/matthewjmon/scrapyard-backend-portfolio`
-- Frontend Repo: `https://github.com/matthewjmon/scrapyard-frontend-portfolio`
+- API Base URL: [scrapyard-backend-portfolio.onrender.com/api](https://scrapyard-backend-portfolio.onrender.com/api)
+- Frontend App: [scrapyard-frontend-portfolio.onrender.com](https://scrapyard-frontend-portfolio.onrender.com)
+- Backend Repo: [github.com/matthewjmon/scrapyard-backend-portfolio](https://github.com/matthewjmon/scrapyard-backend-portfolio)
+- Frontend Repo: [github.com/matthewjmon/scrapyard-frontend-portfolio](https://github.com/matthewjmon/scrapyard-frontend-portfolio)
 
 ## Project Impact
 This portfolio project is a sanitized adaptation of a real, paid, and deployed business application developed for a local scrapyard operation.
